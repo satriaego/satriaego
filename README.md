@@ -28,8 +28,8 @@
 ---
 
 ### 💬 Get in Touch
-- 📫 Email: [satriaego.21038@mhs.unesa.ac.id](mailto:satriaego.21038@mhs.unesa.ac.id)  
-- 📱 WhatsApp: +62 857-0821-0771  
+- 📫 Email: [Email](mailto:satriaego.21038@mhs.unesa.ac.id 
+- 📱 WhatsApp: [Chat WhatsApp](https://wa.me/6285708210771 
 
 ---
 
