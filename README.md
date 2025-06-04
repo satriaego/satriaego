@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @satriaego
+- 👀 I’m passionate about Cloud Computing, AI, IoT, and Chatbot development
+- 🌱 I’m currently learning advanced Cloud Architecture as an AWS Certified Solutions Architect, Python & JavaScript for AI and Chatbots, plus Microcontroller programming for IoT projects
+- 💞️ I’m looking to collaborate on innovative AI-powered automation, scalable cloud solutions, and smart IoT systems
+- 📫 How to reach me:  
+  - 📧 satriaego.21038@mhs.unesa.ac.id  
+  - 📱 WhatsApp: +62 857-0821-0771
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy combining cloud tech with embedded systems to create smart, connected solutions!
