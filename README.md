@@ -29,6 +29,3 @@
 ### Learning Again 😔, My Favorite 😋 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satriaego&show_icons=true&theme=radical" alt="Satria Ego GitHub Stats" />
-</p>
