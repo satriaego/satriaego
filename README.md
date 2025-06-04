@@ -25,9 +25,8 @@
 
 ### 💬 Get in Touch
 **📫 Email: [Email](mailto:satriaego.21038@mhs.unesa.ac.id) | 📱 WhatsApp: [Chat WhatsApp](https://wa.me/6285708210771)**
----
 
-### ⚡ Learning Again 😔, My Favorite 😋 
+### Learning Again 😔, My Favorite 😋 
 ---
 
 <p align="center">
